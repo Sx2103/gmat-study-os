@@ -22,5 +22,3 @@ html, body, #root {
 :focus-visible { outline: 2px solid #7C3AED; outline-offset: 2px; }
 
 input[type="checkbox"] { accent-color: #7C3AED; cursor: pointer; }
-
-.task-card:hover .task-controls { opacity: 1 !important; }
